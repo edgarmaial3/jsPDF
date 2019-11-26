@@ -1,11 +1,11 @@
 {
-  "name": "jspdf",
+  "name": "jspdf-l3",
   "version": "1.5.3",
-  "homepage": "https://github.com/mrrio/jspdf",
+  "homepage": "https://github.com/edgarmaial3/jsPDF",
   "description": "PDF Document creation from JavaScript",
   "main": "dist/jspdf.min.js",
   "bugs": {
-    "url": "https://github.com/MrRio/jsPDF/issues"
+    "url": "https://github.com/edgarmaial3/jsPDF/issues"
   },
   "files": [
     "dist/jspdf.debug.js",
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrRio/jsPDF.git"
+    "url": "https://github.com/edgarmaial3/jsPDF.git"
   },
   "dependencies": {
     "atob": "^2.1.2",
